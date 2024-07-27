@@ -2,8 +2,8 @@
 
 ## Descripción
 
-Este proyecto es un sistema de gestión de películas y directores implementado en Java. 
-Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para manejar la información de películas y directores en una base de datos. 
+Este proyecto es un sistema de gestión de películas y directores implementado en Java.  
+Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para manejar la información de películas y directores en una base de datos.  
 El sistema está diseñado para ser flexible y fácil de usar, proporcionando una interfaz robusta para la administración de datos relacionados con el cine.
 
 ## Funcionalidades
@@ -38,7 +38,7 @@ El sistema está diseñado para ser flexible y fácil de usar, proporcionando un
 
 1. Clona el repositorio:
     ```sh
-    git clone <[URL_DEL_REPOSITORIO](https://github.com/espemb/aplicacion_catalogo_peliculas.git)>
+    git clone https://github.com/espemb/aplicacion_catalogo_peliculas.git)
     ```
 
 2. Configura la base de datos:
